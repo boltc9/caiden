@@ -1,0 +1,25 @@
+
+element.style {
+}
+(index):26
+.page {
+    width: 720px;
+    margin: 0 auto;
+    height: 100%;
+    background: rgba(255,255,255,0.3);
+}
+user agent stylesheet
+div {
+    display: block;
+}
+Inherited from body.pretty
+(index):7
+.pretty {
+    color: white;
+    font-family: monospace;
+    background: #d3e8c5;
+    background: -moz-linear-gradient(top, #d3e8c5 16%, #d3e8c5 16%, #72dfe5 36%, #52d39b 79%, #87bcea 100%);
+    background: -webkit-linear-gradient(top, #d3e8c5 16%,#d3e8c5 16%,#72dfe5 36%,#52d39b 79%,#87bcea 100%);
+    background: linear-gradient(to bottom, #d3e8c5 16%,#d3e8c5 16%,#72dfe5 36%,#52d39b 79%,#87bcea 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d3e8c5', endColorstr='#87bcea',GradientType=0 );
+}
